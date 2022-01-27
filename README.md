@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felipe Castro</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
+- 🔭 I’m currently working on Mercado Pago [Resellers](https://www.mercadopago.com.br/revendedores/)
+
+- 🌱 I’m currently learning **Kafka, Kurbenets, Keycloak, Jenkins**
+
 - 📫 How to reach me **me@felipecastro.dev**
 
 <h3 align="left">Connect with me:</h3>
