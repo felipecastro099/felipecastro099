@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe Castro</h1>
 <h3 align="center">A passionate software engineer from Brazil</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipecastro099&label=Profile%20views&color=0e75b6&style=flat" alt="felipecastro099" /> </p>
+
 - 🔭 I’m currently working on Mercado Pago [Resellers](https://www.mercadopago.com.br/revendedores/)
 
 - 🌱 I’m currently learning **Kafka, Kurbenets, Keycloak, Jenkins**
